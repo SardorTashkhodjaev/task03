@@ -1,0 +1,3 @@
+rg_id
+sa_blob_endpoint
+vnet_id

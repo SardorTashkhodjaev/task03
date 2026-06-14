@@ -1,0 +1,5 @@
+rg_name = ""
+storage_name = ""
+vnet_name = ""
+subnet1_name = ""
+subnet2_name = ""
